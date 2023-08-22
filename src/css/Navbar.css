@@ -1,0 +1,31 @@
+.navbar-nav {
+    display: flex;
+    list-style: none;
+  }
+  
+  .navbar-links.hidden {
+    display: none;
+    
+  }
+  
+  .navbar-toggler {
+    cursor: pointer;
+  }
+
+
+
+.nav__login {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(0, 100, 155);
+    border-radius: 15%;
+    
+}
+
+.nav__login:hover {
+    color: rgb(0, 100, 155);;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 15%;
+    
+}
